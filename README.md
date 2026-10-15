@@ -1,7 +1,7 @@
 # Hi, I'm Angel 👋
 
 Computer Engineering graduate focused on **AI, NLP and Reinforcement Learning**.
-Currently applying to a Master's program in Artificial Intelligence.
+
 
 ## 🚀 Featured Projects
 - **[CoRAG](https://github.com/aabousika/CoRAG)**: multi-step legal question answering with RAG and LLMs
@@ -44,7 +44,7 @@ Currently applying to a Master's program in Artificial Intelligence.
 ---
 
 ## 🎯 Interests
-Retrieval-Augmented Generation (RAG) · Deep Reinforcement Learning · Evolutionary Algorithms · Legal & Arabic NLP
+Retrieval-Augmented Generation (RAG) · Deep Reinforcement Learning · Evolutionary Algorithms ·  NLP
 
 ---
 
