@@ -5,7 +5,7 @@ Computer Engineering graduate focused on **AI, NLP and Reinforcement Learning**.
 
 ## 🚀 Featured Projects
 - **[CoRAG](https://github.com/aabousika/CoRAG)**: multi-step legal question answering with RAG and LLMs
-- **[GA-Robot-Path-Planning](https://github.com/aabousika/GA-Robot-Path-Planning)**: genetic algorithm for robot path planning in dynamic environments
+- **[GA-Robot-Path-Planning](https://github.com/aabousika/GA-Robot-Path-Planning)**: genetic algorithm for robot path planning in static and dynamic environments
 - **[snake-gameAI](https://github.com/aabousika/snake-gameAI)**: DQN agent that learns to play Snake
 - **[REPEC-AI](https://github.com/aabousika/REPEC-AI)**: booking website focused on Syrian cities
 - **[Flask-React-Full-Stack-App](https://github.com/aabousika/Flask-React-Full-Stack-App)**: full-stack web application with Flask and React
