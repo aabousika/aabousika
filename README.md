@@ -1,6 +1,7 @@
 # Hi, I'm Angel 👋
 
 Computer Engineering graduate focused on **AI, NLP and Reinforcement Learning**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-aabousika.github.io-5b3df5?style=for-the-badge)](https://aabousika.github.io)
 
 
 ## 🚀 Featured Projects
